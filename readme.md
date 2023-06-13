@@ -50,13 +50,3 @@
 - 其他有需要快照备份的应用，可以新建数据集然后修改权限。
 
 > 个人家用建议这样配置，不需要去配置 acl 简单方便
-
-
-## 请我喝奶茶
-- 微信
-
-  ![](https://gitee.com/qwerty0007/xchart/raw/main/assets/wechat.jpg)
-
-- 支付宝
-
-  ![](https://gitee.com/qwerty0007/xchart/raw/main/assets/alipay.jpg)
